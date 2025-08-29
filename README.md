@@ -4,7 +4,7 @@
 <p>Este projeto foi desenvolvido seguindo o tutorial oficial da Microsoft sobre Razor Pages com Entity Framework Core em ASP.NET Core. A aplicação demonstra as funcionalidades essenciais de um CRUD completo com operações de criação, leitura, atualização e exclusão de dados.</p>
 
 <h2>🎯 Objetivo</h2>
-<p>Implementar uma aplicação web completa utilizando as melhores práticas do ASP.NET Core com Razor Pages e Entity Framework Core, seguindo o tutorial em 8 partes da documentação oficial da Microsoft.</p>
+<p>Implementar uma aplicação web utilizando as melhores práticas do ASP.NET Core com Razor Pages e Entity Framework Core, como treinamento para a disciplina Web II.</p>
 
 <h2>🛠️ Tecnologias Utilizadas</h2>
 
