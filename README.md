@@ -22,7 +22,6 @@
   <li><b>HTML5</b> - Estrutura das páginas</li>
   <li><b>CSS3</b> - Estilização básica</li>
   <li><b>Razor Syntax</b> - Integração backend-frontend</li>
-  <li><b>Bootstrap</b> - Framework CSS opcional</li>
 </ul>
 
 <h2>📚 Partes do Tutorial Implementadas</h2>
