@@ -138,15 +138,6 @@ dotnet run
   <li>Code-first approach</li>
   <li>Configuração de DbContext</li>
   <li>Fluent API para mapeamento</li>
-  <li>LINQ queries</li>
-</ul>
-
-<h3>✅ Boas Práticas de Desenvolvimento</h3>
-<ul>
-  <li>Validação de dados</li>
-  <li>Tratamento de erros</li>
-  <li>Segurança básica (XSS, CSRF)</li>
-  <li>Performance e otimização</li>
 </ul>
 
 <h2>📖 Recursos Adicionais</h2>
@@ -158,13 +149,7 @@ dotnet run
   <li>Tutorial Completo: https://docs.microsoft.com/aspnet/core/data/ef-rp/intro</li>
 </ul>
 
-<h3>🎓 Próximos Passos</h3>
-<ul>
-  <li>Implementar autenticação e autorização</li>
-  <li>Adicionar API RESTful</li>
-  <li>Implementar testes unitários e de integração</li>
-  <li>Configurar deployment em nuvem</li>
-</ul>
+
 
 <h2>👥 Desenvolvido por</h2>
 <p>Romário Silva</p>
